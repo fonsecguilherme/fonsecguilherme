@@ -11,3 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonsecguilherme&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fonsecguilherme&repo=Dart_Projetos&theme=vision-friendly-dark&hide_dorder=false)](https://github.com/fonsecguilherme/Dart_Projetos)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fonsecguilherme&repo=app_turismo&theme=vision-friendly-dark&hide_dorder=false)](https://github.com/fonsecguilherme/app_turismo)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fonsecguilherme&repo=Java&theme=vision-friendly-dark&hide_dorder=false)](https://github.com/fonsecguilherme/Java)
