@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Dart/Flutter
 - 👯 I’m looking to collaborate on Flutter and dart projects
 - 📫 How to reach me: ramosguilherme41@gmail.com
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/fonsecguilherme">
