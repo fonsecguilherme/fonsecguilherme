@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on get my first job as a junior developer
+- 🔭 I’m currently working on getting my first job as a junior developer
 - 🌱 I’m currently learning Dart/Flutter
 - 👯 I’m looking to collaborate on Flutter and dart projects
 - 📫 How to reach me: ramosguilherme41@gmail.com
