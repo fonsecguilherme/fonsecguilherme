@@ -1,8 +1,8 @@
 # Hello there 👋
 
-- 🔭 Flutter developer at Blu by BS2.
-- 🌱 Flutter Enthusiast
-- 👯 I’m looking foward to collaborate on Flutter and dart projects
+- 🔭 I am a Flutter developer at Blu by BS2
+- 🌱 Mobile Enthusiast
+- 👯 I’m looking foward to expand and share knoledge with people (=
 - 📫 You can reach me at: ramosguilherme41@gmail.com
 
 ## Technologies I am using for my projects
