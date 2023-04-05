@@ -1,6 +1,5 @@
 # Hello there 👋
 
-- 🔭 I am a Flutter developer at Blu by BS2
 - 🌱 Mobile Enthusiast
 - 👯 I’m looking foward to expand and share knoledge with people (=
 - 📫 You can reach me at: ramosguilherme41@gmail.com
