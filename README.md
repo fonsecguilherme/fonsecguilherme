@@ -9,7 +9,7 @@ I am graduated in Computer Science at Universidade Federal de Alagoas (UFAL - Ca
 - Version control with Git.
 - Automated tests (unit, widget, BLoC...).
 - API integration
-- State management with BLoC and Cubit
+- State management with BLoC, Cubit, ChangeNotifier and ValueNotifier
 - Use of desing tools for references such as Zeplin and Figma
 
 ## Technologies I am using for my projects
